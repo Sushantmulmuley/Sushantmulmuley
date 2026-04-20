@@ -3,7 +3,7 @@
 
 🔭 Currently working for **AxionPro** — a automobile Dealer operations automation platform for the EV/two-wheeler industry.  
 🌱 Deepening expertise in **Agentic AI**, **DevOps automation**, and **Product Management**. 
-🚀 Actively seeking **Associate Product Manager / Devops engineer** roles at Pune-based SaaS companies.  
+🚀 Actively seeking **Associate Product Manager / Devops engineer** roles.  
 💡 Built **IncidentIQ** — an AI-powered DevOps incident explainer using Groq API, Docker & Slack integration.  
 🤝 Find me [@https://www.linkedin.com/in/sushant-mulmuley-208771214/](#)
 
