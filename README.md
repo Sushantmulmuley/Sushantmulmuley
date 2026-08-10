@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I'm Sushant Mulmuley 👋</h1>
 
-<h3 align="left">Technical Operations Lead → Product Manager | Thane, Maharashtra 🇮🇳</h3>
+<h3 align="left">Associate Product Manager| Thane, Maharashtra 🇮🇳</h3>
 
 🔭 Building **IncidentIQ** — an AI-powered DevOps incident intelligence platform  
 🏢 Currently at **JSTAG Technologies** as Technical Operations Lead  
