@@ -4,8 +4,8 @@
 
 🔭 Building **IncidentIQ** — an AI-powered DevOps incident intelligence platform  
 🏢 Currently at **JSTAG Technologies** as Technical Operations Lead  
-🚀 Actively seeking **Associate Product Manager** roles  
-🌱 Deepening expertise in **AI product development**, **LLM integration**, and **DevOps automation**  
+🚀 Actively seeking **Product Manager** roles  
+🌱 Deepening expertise in **AI product Management**, **Product Strategy**, and **DevOps automation**  
 🎓 B.Tech Computer Technology — YCCE Nagpur (CGPA 8.0/10)  
 🤝 [LinkedIn](https://www.linkedin.com/in/sushant-mulmuley-208771214/) | 📧 sushantmulmuley@gmail.com
 
